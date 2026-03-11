@@ -25,6 +25,7 @@ def selection_sort(arr):
 
 
 if __name__ == "__main__":
+    print("Hello World")
     data = [64, 34, 25, 12, 22, 11, 90]
     print("排序前:", data)
 
